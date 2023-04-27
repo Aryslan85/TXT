@@ -1,0 +1,5 @@
+How many skills we need to learn.
+Terminal
+GIT
+Postman
+SQL
