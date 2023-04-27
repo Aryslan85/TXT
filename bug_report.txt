@@ -1,1 +1,8 @@
+Bug_report.
+1. ID - 1
+2. Severity - discription of severity.
+3. Title - discription of title.
+4. Steps - discription of steps.
+5. Expected result - discription of expected result.
+6. Actual result - discription of actual result.
 
